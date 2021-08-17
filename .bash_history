@@ -624,3 +624,8 @@ echo ${car[*]}
 echo "first is : ${car[0]}"
 echo "second is : ${car[1]}"
 echo "${car[@]}"
+ls
+cd shellscript
+ls
+sh array.sh
+array array.sh

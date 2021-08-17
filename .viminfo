@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629185567,,"wq"
+|2,0,1629203159,,"wq"
 ::wq
 |2,0,1629112889,,":wq"
 :::
@@ -56,230 +56,434 @@
 |3,1,36,0,1,0,1628852228,"	"
 
 # File marks:
-'0  35  0  ~/quest/myshell/choicetwonum.sh
-|4,48,35,0,1629185567,"~/quest/myshell/choicetwonum.sh"
-'1  15  14  ~/quest/myshell/choicetwonum.sh
-|4,49,15,14,1629185234,"~/quest/myshell/choicetwonum.sh"
-'2  8  14  ~/quest/myshell/choicetwonum.sh
-|4,50,8,14,1629185234,"~/quest/myshell/choicetwonum.sh"
-'3  16  6  ~/quest/myshell/choicetwonum.sh
-|4,51,16,6,1629185182,"~/quest/myshell/choicetwonum.sh"
-'4  9  6  ~/quest/myshell/choicetwonum.sh
-|4,52,9,6,1629185182,"~/quest/myshell/choicetwonum.sh"
-'5  23  37  ~/quest/myshell/choicetwonum.sh
-|4,53,23,37,1629185110,"~/quest/myshell/choicetwonum.sh"
-'6  23  37  ~/quest/myshell/choicetwonum.sh
-|4,54,23,37,1629185110,"~/quest/myshell/choicetwonum.sh"
-'7  24  37  ~/quest/myshell/choicetwonum.sh
-|4,55,24,37,1629185110,"~/quest/myshell/choicetwonum.sh"
-'8  24  37  ~/quest/myshell/choicetwonum.sh
-|4,56,24,37,1629185110,"~/quest/myshell/choicetwonum.sh"
-'9  16  37  ~/quest/myshell/choicetwonum.sh
-|4,57,16,37,1629185110,"~/quest/myshell/choicetwonum.sh"
+'0  58  1  ~/quest/myshell/datfiledelete.sh
+|4,48,58,1,1629203159,"~/quest/myshell/datfiledelete.sh"
+'1  22  18  ~/quest/myshell/datfiledelete.sh
+|4,49,22,18,1629202419,"~/quest/myshell/datfiledelete.sh"
+'2  22  18  ~/quest/myshell/datfiledelete.sh
+|4,50,22,18,1629202419,"~/quest/myshell/datfiledelete.sh"
+'3  7  6  ~/quest/myshell/datfiledelete.sh
+|4,51,7,6,1629202334,"~/quest/myshell/datfiledelete.sh"
+'4  7  6  ~/quest/myshell/datfiledelete.sh
+|4,52,7,6,1629202334,"~/quest/myshell/datfiledelete.sh"
+'5  7  6  ~/quest/myshell/datfiledelete.sh
+|4,53,7,6,1629202334,"~/quest/myshell/datfiledelete.sh"
+'6  7  6  ~/quest/myshell/datfiledelete.sh
+|4,54,7,6,1629202334,"~/quest/myshell/datfiledelete.sh"
+'7  7  8  ~/quest/myshell/datfiledelete.sh
+|4,55,7,8,1629202241,"~/quest/myshell/datfiledelete.sh"
+'8  7  8  ~/quest/myshell/datfiledelete.sh
+|4,56,7,8,1629202241,"~/quest/myshell/datfiledelete.sh"
+'9  7  8  ~/quest/myshell/datfiledelete.sh
+|4,57,7,8,1629202241,"~/quest/myshell/datfiledelete.sh"
 
 # Jumplist (newest first):
--'  35  0  ~/quest/myshell/choicetwonum.sh
-|4,39,35,0,1629185567,"~/quest/myshell/choicetwonum.sh"
--'  15  14  ~/quest/myshell/choicetwonum.sh
-|4,39,15,14,1629185270,"~/quest/myshell/choicetwonum.sh"
--'  8  14  ~/quest/myshell/choicetwonum.sh
-|4,39,8,14,1629185234,"~/quest/myshell/choicetwonum.sh"
--'  16  6  ~/quest/myshell/choicetwonum.sh
-|4,39,16,6,1629185182,"~/quest/myshell/choicetwonum.sh"
--'  9  6  ~/quest/myshell/choicetwonum.sh
-|4,39,9,6,1629185182,"~/quest/myshell/choicetwonum.sh"
--'  23  37  ~/quest/myshell/choicetwonum.sh
-|4,39,23,37,1629185148,"~/quest/myshell/choicetwonum.sh"
--'  24  37  ~/quest/myshell/choicetwonum.sh
-|4,39,24,37,1629185148,"~/quest/myshell/choicetwonum.sh"
--'  16  37  ~/quest/myshell/choicetwonum.sh
-|4,39,16,37,1629185148,"~/quest/myshell/choicetwonum.sh"
--'  17  37  ~/quest/myshell/choicetwonum.sh
-|4,39,17,37,1629185148,"~/quest/myshell/choicetwonum.sh"
--'  17  37  ~/quest/myshell/choicetwonum.sh
-|4,39,17,37,1629185110,"~/quest/myshell/choicetwonum.sh"
--'  31  0  ~/quest/myshell/choicetwonum.sh
-|4,39,31,0,1629185071,"~/quest/myshell/choicetwonum.sh"
--'  24  0  ~/quest/myshell/choicetwonum.sh
-|4,39,24,0,1629185071,"~/quest/myshell/choicetwonum.sh"
--'  25  0  ~/quest/myshell/choicetwonum.sh
-|4,39,25,0,1629185071,"~/quest/myshell/choicetwonum.sh"
--'  25  0  ~/quest/myshell/choicetwonum.sh
-|4,39,25,0,1629185071,"~/quest/myshell/choicetwonum.sh"
--'  32  0  ~/quest/myshell/choicetwonum.sh
-|4,39,32,0,1629185036,"~/quest/myshell/choicetwonum.sh"
--'  26  0  ~/quest/myshell/choicetwonum.sh
-|4,39,26,0,1629185036,"~/quest/myshell/choicetwonum.sh"
--'  27  0  ~/quest/myshell/choicetwonum.sh
-|4,39,27,0,1629185036,"~/quest/myshell/choicetwonum.sh"
--'  27  0  ~/quest/myshell/choicetwonum.sh
-|4,39,27,0,1629185036,"~/quest/myshell/choicetwonum.sh"
--'  26  54  ~/quest/myshell/choicetwonum.sh
-|4,39,26,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  28  54  ~/quest/myshell/choicetwonum.sh
-|4,39,28,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  27  54  ~/quest/myshell/choicetwonum.sh
-|4,39,27,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  29  54  ~/quest/myshell/choicetwonum.sh
-|4,39,29,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  19  54  ~/quest/myshell/choicetwonum.sh
-|4,39,19,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  21  54  ~/quest/myshell/choicetwonum.sh
-|4,39,21,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  20  54  ~/quest/myshell/choicetwonum.sh
-|4,39,20,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  22  54  ~/quest/myshell/choicetwonum.sh
-|4,39,22,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  20  54  ~/quest/myshell/choicetwonum.sh
-|4,39,20,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  22  54  ~/quest/myshell/choicetwonum.sh
-|4,39,22,54,1629184824,"~/quest/myshell/choicetwonum.sh"
--'  30  7  ~/quest/myshell/choicetwonum.sh
-|4,39,30,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  20  7  ~/quest/myshell/choicetwonum.sh
-|4,39,20,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  22  7  ~/quest/myshell/choicetwonum.sh
-|4,39,22,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  21  7  ~/quest/myshell/choicetwonum.sh
-|4,39,21,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  23  7  ~/quest/myshell/choicetwonum.sh
-|4,39,23,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  21  7  ~/quest/myshell/choicetwonum.sh
-|4,39,21,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  23  7  ~/quest/myshell/choicetwonum.sh
-|4,39,23,7,1629184641,"~/quest/myshell/choicetwonum.sh"
--'  23  7  ~/quest/myshell/choicetwonum.sh
-|4,39,23,7,1629184617,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  1  0  ~/quest/myshell/choicetwonum.sh
-|4,39,1,0,1629183779,"~/quest/myshell/choicetwonum.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
--'  5  29  ~/quest/myshell/marks.sh
-|4,39,5,29,1629183760,"~/quest/myshell/marks.sh"
+-'  58  1  ~/quest/myshell/datfiledelete.sh
+|4,39,58,1,1629203159,"~/quest/myshell/datfiledelete.sh"
+-'  22  18  ~/quest/myshell/datfiledelete.sh
+|4,39,22,18,1629202464,"~/quest/myshell/datfiledelete.sh"
+-'  22  18  ~/quest/myshell/datfiledelete.sh
+|4,39,22,18,1629202419,"~/quest/myshell/datfiledelete.sh"
+-'  7  6  ~/quest/myshell/datfiledelete.sh
+|4,39,7,6,1629202367,"~/quest/myshell/datfiledelete.sh"
+-'  7  6  ~/quest/myshell/datfiledelete.sh
+|4,39,7,6,1629202367,"~/quest/myshell/datfiledelete.sh"
+-'  7  6  ~/quest/myshell/datfiledelete.sh
+|4,39,7,6,1629202334,"~/quest/myshell/datfiledelete.sh"
+-'  7  8  ~/quest/myshell/datfiledelete.sh
+|4,39,7,8,1629202241,"~/quest/myshell/datfiledelete.sh"
+-'  25  3  ~/quest/myshell/datfiledelete.sh
+|4,39,25,3,1629202130,"~/quest/myshell/datfiledelete.sh"
+-'  25  3  ~/quest/myshell/datfiledelete.sh
+|4,39,25,3,1629202130,"~/quest/myshell/datfiledelete.sh"
+-'  25  3  ~/quest/myshell/datfiledelete.sh
+|4,39,25,3,1629202130,"~/quest/myshell/datfiledelete.sh"
+-'  25  3  ~/quest/myshell/datfiledelete.sh
+|4,39,25,3,1629202130,"~/quest/myshell/datfiledelete.sh"
+-'  24  3  ~/quest/myshell/datfiledelete.sh
+|4,39,24,3,1629201990,"~/quest/myshell/datfiledelete.sh"
+-'  24  3  ~/quest/myshell/datfiledelete.sh
+|4,39,24,3,1629201990,"~/quest/myshell/datfiledelete.sh"
+-'  24  3  ~/quest/myshell/datfiledelete.sh
+|4,39,24,3,1629201990,"~/quest/myshell/datfiledelete.sh"
+-'  24  3  ~/quest/myshell/datfiledelete.sh
+|4,39,24,3,1629201990,"~/quest/myshell/datfiledelete.sh"
+-'  24  3  ~/quest/myshell/datfiledelete.sh
+|4,39,24,3,1629201920,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/datfiledelete.sh
+|4,39,1,0,1629200644,"~/quest/myshell/datfiledelete.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  1  0  ~/quest/myshell/howmanymovies.sh
+|4,39,1,0,1629200173,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
+-'  3  0  ~/quest/myshell/howmanymovies.sh
+|4,39,3,0,1629200125,"~/quest/myshell/howmanymovies.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/quest/myshell/datfiledelete.sh
+	*	1629203158	0
+	"	58	1
+	^	58	2
+	.	58	0
+	+	1	22
+	+	26	0
+	+	1	57
+	+	7	7
+	+	15	65
+	+	5	0
+	+	7	1
+	+	15	10
+	+	15	58
+	+	6	6
+	+	1	5
+	+	8	58
+	+	10	22
+	+	15	2
+	+	15	9
+	+	25	3
+	+	16	52
+	+	17	14
+	+	8	0
+	+	14	0
+	+	13	0
+	+	16	44
+	+	17	41
+	+	18	25
+	+	24	0
+	+	21	13
+	+	23	0
+	+	22	5
+	+	7	7
+	+	22	18
+	+	7	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	26	0
+	+	25	0
+	+	24	0
+	+	23	1
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	1
+	+	18	1
+	+	17	2
+	+	16	3
+	+	15	4
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	15	0
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	23	0
+	+	16	1
+	+	15	5
+	+	31	38
+	+	29	0
+	+	30	0
+	+	31	37
+	+	34	67
+	+	40	12
+	+	34	65
+	+	41	19
+	+	61	0
+	+	35	0
+	+	36	15
+	+	37	9
+	+	36	16
+	+	38	11
+	+	39	11
+	+	40	9
+	+	44	32
+	+	60	0
+	+	45	16
+	+	48	13
+	+	54	13
+	+	52	11
+	+	59	0
+	+	58	0
+
+> ~/quest/myshell/howmanymovies.sh
+	*	1629200172	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	12
+	+	3	0
+	+	2	38
+	+	1	0
+
+> ~/quest/myshell/checkdirectory.sh
+	*	1629196527	0
+	"	6	1
+	^	6	2
+	.	6	1
+	+	1	12
+	+	2	12
+	+	4	4
+	+	3	8
+	+	6	0
+	+	3	9
+	+	6	1
+
+> ~/quest/myshell/checkfile.sh
+	*	1629196281	0
+	"	9	0
+	^	9	0
+	.	9	0
+	+	11	75
+	+	10	0
+	+	11	0
+	+	10	5
+	+	2	0
+	+	5	28
+	+	6	0
+	+	8	1
+	+	10	0
+	+	11	0
+	+	9	0
+
+> ~/quest/myshell/employdet.sh
+	*	1629195311	0
+	"	4	47
+	^	4	48
+	.	4	47
+	+	10	11
+	+	8	0
+	+	7	12
+	+	9	8
+	+	26	68
+	+	50	0
+	+	26	0
+	+	49	0
+	+	48	0
+	+	1	7
+	+	4	20
+	+	46	35
+	+	46	27
+	+	46	54
+	+	47	0
+	+	46	51
+	+	26	69
+	+	2	0
+	+	4	22
+	+	24	37
+	+	46	18
+	+	4	17
+	+	24	29
+	+	46	14
+	+	3	9
+	+	4	21
+	+	46	0
+	+	47	0
+	+	26	7
+	+	39	23
+	+	45	0
+	+	41	11
+	+	42	5
+	+	44	0
+	+	24	38
+	+	26	46
+	+	24	21
+	+	23	0
+	+	24	22
+	+	22	0
+	+	19	15
+	+	21	22
+	+	19	36
+	+	18	11
+	+	27	0
+	+	35	0
+	+	19	30
+	+	21	21
+	+	24	13
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	4
+	+	29	46
+	+	34	0
+	+	39	45
+	+	4	47
 
 > ~/quest/myshell/choicetwonum.sh
 	*	1629185565	0
