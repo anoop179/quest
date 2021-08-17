@@ -1,0 +1,3 @@
+this is a journal that displays the timeline ofthe training done in quest global
+week 1: basics of linux and various c programs in c
+  personal comments: must investigate dual booting of linux and windows. while dual booting a problem is observed and no suitable solution is obtained while searching the net.
